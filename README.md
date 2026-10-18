@@ -49,12 +49,10 @@ that would be wrong.
 
 ## The browser extension
 
-A companion extension — **Orbitsave for AliExpress** — brings the same landed-cost card directly
+A companion extension — **Orbitsave — Landed Cost** — brings the same landed-cost card directly
 onto the product page you are already viewing: item, shipping, duty estimate and tax, in one look.
 
-![The Orbitsave cost card on a product page](assets/screenshot-cost-card.png)
-
-![The Orbitsave extension popup](assets/screenshot-extension-popup.png)
+_(Screenshots are being re-captured and return here shortly.)_
 
 ## Tech, at a glance
 
