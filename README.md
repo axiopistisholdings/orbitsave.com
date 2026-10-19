@@ -52,6 +52,8 @@ that would be wrong.
 A companion extension — **Orbitsave — Landed Cost** — brings the same landed-cost card directly
 onto the product page you are already viewing: item, shipping, duty estimate and tax, in one look.
 
+**Install it free** — [Chrome Web Store](https://chromewebstore.google.com/detail/ccibipblcoamjgamgenlephffaikhbeo).
+
 ![The Orbitsave landed-cost card on a product page](assets/screenshot-cost-card.png)
 
 ![The Orbitsave extension popup](assets/screenshot-extension-popup.png)
